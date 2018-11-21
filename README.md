@@ -62,7 +62,7 @@ $ db = "XXX";
 
 ### 3. Aplicativo da Web PHP
 
-Em seguida, copie os arquivos do aplicativo php (diretório www ) para um local do servidor, levando em consideração o seguinte:
+Em seguida, copie os arquivos do aplicativo php (arquivo www.zip ) para um local do servidor, levando em consideração o seguinte:
 
 - Coloque o código PHP dentro da raiz do servidor, e será acessível através de:
 - ** www.seuwebsite.dominio **
